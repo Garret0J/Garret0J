@@ -69,16 +69,16 @@ $ status
 STATUS: BUILDING...
 ```
 
-🚧 My projects are currently loading.
+My projects are currently loading.
 
-Check back soon — this section will become the main showcase for my work.
+Check back soon.. this section will become the main showcase for my work.
 
 ---
 
 ## `> interests`
 
-`⚡ Cyberpunk` `💻 Programming` `🔐 Cybersecurity` `🐧 Linux`  
-`🌐 Web` `🤖 AI` `🎮 Gaming` `🧩 Problem Solving`
+` Cyberpunk` ` Programming` ` Cybersecurity` ` Linux`  
+` Web` ` AI` ` Gaming` ` Problem Solving`
 
 ---
 
