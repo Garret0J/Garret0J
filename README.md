@@ -26,10 +26,10 @@ $ status
 [ EXPLORING... ]
 ```
 
-🧠 Learning to code  
-💻 Exploring technology & cybersecurity  
-🐧 Learning Linux  
-⚡ Building my first serious projects
+Learning to code  
+Exploring technology & cybersecurity  
+Learning Linux  
+Building my first serious projects
 
 ---
 
