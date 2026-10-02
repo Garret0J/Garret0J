@@ -2,7 +2,7 @@
 
 <img src="./MRDISRO_Cyberpunk_Animated.gif" alt="MRDISRO Cyberpunk Animated Banner" width="100%">
 
-# ⚡ MRDISRO // SYSTEM ONLINE
+# ⚡ MRDISRO.. SYSTEM ONLINE 🟢
 
 `CODE` • `LEARN` • `EXPLORE` • `EVOLVE`
 
@@ -14,7 +14,7 @@
 
 ```bash
 $ whoami
-Garret0J
+GJ
 
 $ alias
 MrDisro
@@ -117,7 +117,7 @@ Check back soon — this section will become the main showcase for my work.
 ```text
 ╔══════════════════════════════════════════════╗
 ║                                              ║
-║              MRDISRO // ONLINE              ║
+║              MRDISRO.. ONLINE 🟢            ║
 ║                                              ║
 ║       CODE // LEARN // EXPLORE // EVOLVE    ║
 ║                                              ║
