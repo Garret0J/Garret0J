@@ -2,7 +2,7 @@
 
 <img src="./MRDISRO_Cyberpunk_Animated.gif" alt="MRDISRO Cyberpunk Animated Banner" width="100%">
 
-#  MRDISRO.. SYSTEM ONLINE 🟢
+# MRDISRO.. SYSTEM ONLINE <img src="./MRDISRO_Green_Pulse_Dot.gif" alt="Online" width="22" height="22" style="vertical-align: -+0px;">
 
 `CODE` • `LEARN` • `EXPLORE` • `EVOLVE`
 
@@ -53,11 +53,11 @@ Building my first serious projects
 ╭────────────────────────────────────╮
 │          CURRENT LOADOUT           │
 ├────────────────────────────────────┤
-│ 🐍 Python          Learning        │
-│ 🌐 Web Development Learning        │
-│ 🐧 Linux           Exploring       │
-│ 🔐 Cybersecurity   Exploring       │
-│ 🧠 Git / GitHub    Learning        │
+│    Python          Learning        │
+│    Web Development Learning        │
+│    Linux           Exploring       │
+│    Cybersecurity   Exploring       │
+│    Git / GitHub    Learning        │
 ╰────────────────────────────────────╯
 ```
 
@@ -117,9 +117,9 @@ Check back soon.. this section will become the main showcase for my work.
 ```text
 ╔══════════════════════════════════════════════╗
 ║                                              ║
-║              MRDISRO.. ONLINE 🟢            ║
+║               MRDISRO.. ONLINE               ║
 ║                                              ║
-║       CODE // LEARN // EXPLORE // EVOLVE    ║
+║        CODE // LEARN // EXPLORE // EVOLVE    ║
 ║                                              ║
 ╚══════════════════════════════════════════════╝
 ```
