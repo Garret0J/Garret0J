@@ -2,7 +2,7 @@
 
 <img src="./MRDISRO_Cyberpunk_Animated.gif" alt="MRDISRO Cyberpunk Animated Banner" width="100%">
 
-MRDISRO.. SYSTEM ONLINE <img src="./MRDISRO_Green_Pulse_Dot.gif" alt="Online" width="22" height="22" style="vertical-align: -+0px;">
+# MRDISRO.. SYSTEM ONLINE <img src="./MRDISRO_Green_Pulse_Dot.gif" alt="Online" width="22" height="22" style="vertical-align: -+0px;">
 
 `CODE` • `LEARN` • `EXPLORE` • `EVOLVE`
 
