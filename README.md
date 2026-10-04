@@ -33,7 +33,7 @@ Building my first serious projects
 
 ---
 
-## `> current_mission`
+## `> current mission`
 
 ```text
 [01] Improve my skills
@@ -47,7 +47,7 @@ Building my first serious projects
 
 ---
 
-## `> tech_stack`
+## `> tech stack`
 
 ```text
 ╭────────────────────────────────────╮
@@ -82,7 +82,7 @@ Check back soon.. this section will become the main showcase for my work.
 
 ---
 
-## `> github_stats`
+## `> github stats`
 
 <div align="center">
 
